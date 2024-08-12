@@ -1,8 +1,5 @@
-CURRENTLY DOESN'T WORK!!! I'M WORKİNG ON A FİX.
-
 A Soundboard made with python!!!
-If the other person is using Linux they wont hear the sounds and this part was not tested for macOS.
-Might need to install Tkinter, Pygame, Sounddevice, Numpy for python, will look into it.
+Might need to install Tkinter, Pygame, Sounddevice, Numpy for python and OBS studio (Audio Output Capture) if you want other people to hear your soundboard (Alternatives might work).
 This was made in windows and not tested in Linux or macOS!!!
 Special thanks to ChatGPT and Copilot.
 
