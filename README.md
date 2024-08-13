@@ -8,7 +8,7 @@ Special thanks to ChatGPT and Copilot.
 
 ### ONLY WORKS WITH .MP3 FILES!!!
 
-### How to Use VB Cable and OBS Studio for Soundboard (Windows)
+# How to Use VB Cable and OBS Studio for Soundboard (Windows)
 
 ## 1.Download and Install OBS Studio:
 
